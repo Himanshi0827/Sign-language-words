@@ -31,11 +31,7 @@ Mediapipe 0.10.11
 bash
 
 pip install tensorflow==2.5.1 opencv-python mediapipe numpy matplotlib scikit-learn
-# Clone the Repository:
 
-bash
-
-git clone https://github.com/jatinRSP/ActionDetection/
 # Create and Activate Virtual Environment:
 
 bash
