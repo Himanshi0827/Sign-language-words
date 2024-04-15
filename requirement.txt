@@ -1,0 +1,7 @@
+googletrans==3.1.0a0
+gtts
+tensorflow
+mediapipe
+numpy
+opencv-python
+scikit-learn
